@@ -23,3 +23,5 @@
 ## [Association Rules Movies Data](https://colab.research.google.com/drive/1sHRS2KtxcqiTbEJuPIHF-jojdqJtsdAb?usp=sharing)
 
 ## [Recommendation System](https://colab.research.google.com/drive/1ExXjebZppYvEuW5zzoDeKGnWxxTupeCW?usp=sharing)
+
+## [Text Mining Elon Musk](https://colab.research.google.com/drive/1je-qb-HI5pxIyMMATAjUk1e6znT_D6S8?usp=sharing)
