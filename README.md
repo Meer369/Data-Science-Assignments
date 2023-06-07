@@ -29,3 +29,5 @@
 ## [Text Mining Amazone Data](https://colab.research.google.com/drive/10aEcn2wa-ex8mABDBiUxO8xm1xUmfCGY?usp=sharing)
 
 ## [Naive Bayes](https://colab.research.google.com/drive/1NAfc75oaN8OBBV9ld6DNGxXC9DkfTfur?usp=sharing)
+
+## [KNN Glass Data](https://colab.research.google.com/drive/16Kzt4YAxVIN51rm8p0H_vutaNhVjh0m_?usp=sharing)
