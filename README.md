@@ -19,3 +19,5 @@
 ## [Priniciple Component Analysis](https://colab.research.google.com/drive/1105bzprXgUhkHEhwR7xjpxaoj28o7xYD?usp=sharing)
 
 ## [Association Rules Book Data](https://colab.research.google.com/drive/1wfame_YtkM1OpBrwPpNwYiky_v_BGHbX?usp=sharing)
+
+## [Association Rules Movies Data](https://colab.research.google.com/drive/1sHRS2KtxcqiTbEJuPIHF-jojdqJtsdAb?usp=sharing)
