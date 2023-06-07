@@ -31,3 +31,6 @@
 ## [Naive Bayes](https://colab.research.google.com/drive/1NAfc75oaN8OBBV9ld6DNGxXC9DkfTfur?usp=sharing)
 
 ## [KNN Glass Data](https://colab.research.google.com/drive/16Kzt4YAxVIN51rm8p0H_vutaNhVjh0m_?usp=sharing)
+
+## [KNN Zoo Data](https://colab.research.google.com/drive/1Xu3hS3RYwjxHQtk54DfsIoQ2CmIOSfNd?usp=sharing)
+
