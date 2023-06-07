@@ -38,3 +38,7 @@
 
 ## [Decision Tree Company Data](https://colab.research.google.com/drive/10w4gLCuw3jBThAyU7VzXnAq96cB6HT97?usp=sharing)
 
+## [Random Forest Company Data](https://colab.research.google.com/drive/1rShXJPpQcSW0cRgb2RrOuDOhWFM0iv16?usp=sharing)
+
+## [Random Forest Fraudcheck](https://colab.research.google.com/drive/1xGrjPEYyFji9dqkyb2HaHy9LmZ-TqaKA?usp=sharing) 
+
