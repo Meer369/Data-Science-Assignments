@@ -15,3 +15,5 @@
 ## [Clustering Crime Data](https://colab.research.google.com/drive/1DYiBVMaA5G_kzxSynfZ4rc4JftTbHJIS?usp=sharing)
 
 ## [Clustering Airlines](https://colab.research.google.com/drive/12_hz54SvBc56TkCkyqqrnKWuW25HxjiQ?usp=sharing)
+
+## [Priniciple Component Analysis](https://colab.research.google.com/drive/1105bzprXgUhkHEhwR7xjpxaoj28o7xYD?usp=sharing)
