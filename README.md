@@ -17,3 +17,5 @@
 ## [Clustering Airlines](https://colab.research.google.com/drive/12_hz54SvBc56TkCkyqqrnKWuW25HxjiQ?usp=sharing)
 
 ## [Priniciple Component Analysis](https://colab.research.google.com/drive/1105bzprXgUhkHEhwR7xjpxaoj28o7xYD?usp=sharing)
+
+## [Association Rules Book Data](https://colab.research.google.com/drive/1wfame_YtkM1OpBrwPpNwYiky_v_BGHbX?usp=sharing)
