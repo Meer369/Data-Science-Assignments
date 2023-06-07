@@ -5,3 +5,4 @@
 ## [Simple Linear Regression Question 2](https://colab.research.google.com/drive/1RXf-gyU__hIN1tEkQjQygHRBoDX86pb6?usp=sharing)
 ## [Multiple Linear Regression Question 1](https://colab.research.google.com/drive/1GgHe4sb--r-JvNsGrUDZYNhW2rocoUPT?usp=sharing)
 ## [Multiple Linear Regression Question 2](https://colab.research.google.com/drive/1lyiGzwwjepNAS5aqfZjZcIQNi0b57LrI?usp=sharing)
+## [Logistic Regression](https://colab.research.google.com/drive/1rLr8xD8U993PzCnbFdIK3Qz2IyWZgwdq?usp=sharing)
