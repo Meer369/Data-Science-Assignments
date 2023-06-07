@@ -44,3 +44,13 @@
 
 ## [Neural Networks Forest Data](https://colab.research.google.com/drive/1ay7x8V78gdvQn7sQM7k_tD8ySH8NGNkG?usp=sharing)
 
+## [Neural Networks Gas Data](https://colab.research.google.com/drive/1DGxsOcQNDgNd0H3CJZ4LuDbtUWeYVvsQ?usp=sharing)
+
+## [Support Vector Machine Forest Fire Data](https://colab.research.google.com/drive/18qAE_VvPcXOhIvi0XvkEAdUAiZx4j98W?usp=sharing) 
+
+## [Support Vector Machine Salary Train and Test Data](https://colab.research.google.com/drive/1AUCY7uGzMui4f8sRwEd-QvKNrELiQyQW?usp=sharing)
+
+## [Forecasting Airline Data](https://colab.research.google.com/drive/1oG5OIxJWWEx1ZCjjiViK4GhgIRn309iU?usp=sharing)
+
+## [Forecasting Coke Data](https://colab.research.google.com/drive/1toCjahoUSo87WPFjKCbwcvMduY8jZU8A?usp=sharing) 
+
