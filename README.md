@@ -34,3 +34,5 @@
 
 ## [KNN Zoo Data](https://colab.research.google.com/drive/1Xu3hS3RYwjxHQtk54DfsIoQ2CmIOSfNd?usp=sharing)
 
+## [Decision Tree Fraudcheck](https://colab.research.google.com/drive/16KgeBsP1M83CJnTFPOp_MhpHy0lvOYuW?usp=sharing)
+
