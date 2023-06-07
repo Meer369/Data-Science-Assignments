@@ -27,3 +27,5 @@
 ## [Text Mining Elon Musk](https://colab.research.google.com/drive/1je-qb-HI5pxIyMMATAjUk1e6znT_D6S8?usp=sharing)
 
 ## [Text Mining Amazone Data](https://colab.research.google.com/drive/10aEcn2wa-ex8mABDBiUxO8xm1xUmfCGY?usp=sharing)
+
+## [Naive Bayes](https://colab.research.google.com/drive/1NAfc75oaN8OBBV9ld6DNGxXC9DkfTfur?usp=sharing)
